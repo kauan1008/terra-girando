@@ -1,6 +1,6 @@
 function setup() {
     creatcanvas(1920, 1080, webgl);//plano 3D
-    terra=loadImag'mapa mund jpj')
+    terra=loadImag'terra.jpg')
 }
 
 function draw( ){
