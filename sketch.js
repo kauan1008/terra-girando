@@ -12,5 +12,3 @@ function draw( ){
     rotateY(millis()/1000);//rotação da terra
     textTrackCue(terra);//da terra, imagem.
     Spehere(80, 100);//esfera 3D
-
-
